@@ -1,10 +1,5 @@
 ---
 title: wonderful_day
-date: 2023-12-05 00:19:35
+date: 2023-12-05 13:10:26
 tags:
 ---
-
-# Maybe it would be a wonderful day i guess 
-
-i will never let you down
-
