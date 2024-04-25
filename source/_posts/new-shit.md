@@ -5,3 +5,5 @@ tags:
 ---
 
 fuck you shit 
+![shit](./new-shit/poop_emoji.jpg)
+this is shit
